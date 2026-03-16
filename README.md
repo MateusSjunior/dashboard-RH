@@ -71,8 +71,7 @@ O tooltip é **totalmente dinâmico** — responde aos filtros ativos de Área e
 
 | Dashboard principal | Tooltip em ação |
 |---|---|
-| ![Dashboard Principal](prints/dashboard_principal.png) | ![Tooltip Interativo](prints/dashboard_tooltip.png) |
-
+| ![Dashboard Principal]([https://github.com/MateusSjunior/dashboard-RH/blob/main/Planos%20de%20fundo%20e%20prints/Dashboard%20de%20RH.png)) | ![Tooltip Interativo]([https://github.com/MateusSjunior/dashboard-RH/blob/main/Planos%20de%20fundo%20e%20prints/Dashboard%20de%20RH%20Tooltip.png)) |
 
 
 > ⚠️ Os dados originais não estão disponíveis publicamente pois fazem parte de material de curso proprietário.
